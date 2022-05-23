@@ -1,0 +1,142 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-5cd94c89d3acac5f.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/gXjTJdox0DLia1RVvbQYb/_buildManifest.js",
+    "static/gXjTJdox0DLia1RVvbQYb/_ssgManifest.js",
+    "static/gXjTJdox0DLia1RVvbQYb/_middlewareManifest.js"
+  ],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-42cdea76c8170223.js",
+      "static/chunks/framework-84f2ad681109ba1f.js",
+      "static/chunks/main-164920eac96bc1c7.js",
+      "static/chunks/675-64b1a131531e375b.js",
+      "static/chunks/126-ed33023ed524db87.js",
+      "static/chunks/979-4d88bec8b8085e7e.js",
+      "static/chunks/705-5c881bd36c238185.js",
+      "static/css/e58b7721b682bf90.css",
+      "static/chunks/pages/index-e60b4754f073d66c.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-42cdea76c8170223.js",
+      "static/chunks/framework-84f2ad681109ba1f.js",
+      "static/chunks/main-164920eac96bc1c7.js",
+      "static/css/5fdd6f426fccb3e4.css",
+      "static/chunks/pages/_app-3125769df636766e.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-42cdea76c8170223.js",
+      "static/chunks/framework-84f2ad681109ba1f.js",
+      "static/chunks/main-164920eac96bc1c7.js",
+      "static/chunks/pages/_error-1995526792b513b2.js"
+    ],
+    "/admin": [
+      "static/chunks/webpack-42cdea76c8170223.js",
+      "static/chunks/framework-84f2ad681109ba1f.js",
+      "static/chunks/main-164920eac96bc1c7.js",
+      "static/chunks/pages/admin-018137ee8683385e.js"
+    ],
+    "/admin/dashboard": [
+      "static/chunks/webpack-42cdea76c8170223.js",
+      "static/chunks/framework-84f2ad681109ba1f.js",
+      "static/chunks/main-164920eac96bc1c7.js",
+      "static/css/e58b7721b682bf90.css",
+      "static/chunks/pages/admin/dashboard-8c9a8f355b44b3b5.js"
+    ],
+    "/admin/dashboard/chess": [
+      "static/chunks/webpack-42cdea76c8170223.js",
+      "static/chunks/framework-84f2ad681109ba1f.js",
+      "static/chunks/main-164920eac96bc1c7.js",
+      "static/chunks/675-64b1a131531e375b.js",
+      "static/chunks/126-ed33023ed524db87.js",
+      "static/chunks/979-4d88bec8b8085e7e.js",
+      "static/css/e58b7721b682bf90.css",
+      "static/chunks/pages/admin/dashboard/chess-8d8f95ff33be08e2.js"
+    ],
+    "/admin/dashboard/species": [
+      "static/chunks/webpack-42cdea76c8170223.js",
+      "static/chunks/framework-84f2ad681109ba1f.js",
+      "static/chunks/main-164920eac96bc1c7.js",
+      "static/chunks/675-64b1a131531e375b.js",
+      "static/chunks/126-ed33023ed524db87.js",
+      "static/css/e58b7721b682bf90.css",
+      "static/chunks/pages/admin/dashboard/species-ff3cdf47f2359785.js"
+    ],
+    "/admin/dashboard/species/[_id]": [
+      "static/chunks/webpack-42cdea76c8170223.js",
+      "static/chunks/framework-84f2ad681109ba1f.js",
+      "static/chunks/main-164920eac96bc1c7.js",
+      "static/chunks/505-0fe6966b6636f3e5.js",
+      "static/css/e58b7721b682bf90.css",
+      "static/chunks/pages/admin/dashboard/species/[_id]-ed00041db94ccbf7.js"
+    ],
+    "/admin/dashboard/species/[_id]/chess-quantity": [
+      "static/chunks/webpack-42cdea76c8170223.js",
+      "static/chunks/framework-84f2ad681109ba1f.js",
+      "static/chunks/main-164920eac96bc1c7.js",
+      "static/chunks/505-0fe6966b6636f3e5.js",
+      "static/css/e58b7721b682bf90.css",
+      "static/chunks/pages/admin/dashboard/species/[_id]/chess-quantity-acaad6fdcc7a7c55.js"
+    ],
+    "/guide/chess/map": [
+      "static/chunks/webpack-42cdea76c8170223.js",
+      "static/chunks/framework-84f2ad681109ba1f.js",
+      "static/chunks/main-164920eac96bc1c7.js",
+      "static/chunks/675-64b1a131531e375b.js",
+      "static/chunks/126-ed33023ed524db87.js",
+      "static/chunks/979-4d88bec8b8085e7e.js",
+      "static/chunks/705-5c881bd36c238185.js",
+      "static/css/e58b7721b682bf90.css",
+      "static/chunks/pages/guide/chess/map-8b95419a209b57f8.js"
+    ],
+    "/guide/chess/map/ChessHover": [
+      "static/chunks/webpack-42cdea76c8170223.js",
+      "static/chunks/framework-84f2ad681109ba1f.js",
+      "static/chunks/main-164920eac96bc1c7.js",
+      "static/chunks/675-64b1a131531e375b.js",
+      "static/chunks/126-ed33023ed524db87.js",
+      "static/chunks/979-4d88bec8b8085e7e.js",
+      "static/chunks/pages/guide/chess/map/ChessHover-982e038713272946.js"
+    ],
+    "/guide/chess/map/SpeciesHover": [
+      "static/chunks/webpack-42cdea76c8170223.js",
+      "static/chunks/framework-84f2ad681109ba1f.js",
+      "static/chunks/main-164920eac96bc1c7.js",
+      "static/chunks/675-64b1a131531e375b.js",
+      "static/chunks/pages/guide/chess/map/SpeciesHover-3af53bde9e7de3e0.js"
+    ],
+    "/guide/species": [
+      "static/chunks/webpack-42cdea76c8170223.js",
+      "static/chunks/framework-84f2ad681109ba1f.js",
+      "static/chunks/main-164920eac96bc1c7.js",
+      "static/chunks/126-ed33023ed524db87.js",
+      "static/css/e58b7721b682bf90.css",
+      "static/chunks/pages/guide/species-4a3e053aa4dcb83a.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-42cdea76c8170223.js",
+      "static/chunks/framework-84f2ad681109ba1f.js",
+      "static/chunks/main-164920eac96bc1c7.js",
+      "static/css/e58b7721b682bf90.css",
+      "static/chunks/pages/layout-9976e3b6a6be4f23.js"
+    ],
+    "/layout/admin": [
+      "static/chunks/webpack-42cdea76c8170223.js",
+      "static/chunks/framework-84f2ad681109ba1f.js",
+      "static/chunks/main-164920eac96bc1c7.js",
+      "static/css/e58b7721b682bf90.css",
+      "static/chunks/pages/layout/admin-4bc32eccc2974ad6.js"
+    ],
+    "/menu": [
+      "static/chunks/webpack-42cdea76c8170223.js",
+      "static/chunks/framework-84f2ad681109ba1f.js",
+      "static/chunks/main-164920eac96bc1c7.js",
+      "static/chunks/pages/menu-22a2d66434ffa70a.js"
+    ]
+  },
+  "ampFirstPages": []
+}
